@@ -1,2 +1,3 @@
 # ldevops
-this 
+this is a devops practicals devops git
+
